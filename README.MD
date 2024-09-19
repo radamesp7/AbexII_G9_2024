@@ -1,7 +1,7 @@
  Desafio 1: Rede de Troca de Livros
 
 Desafio:
-Desenvolver uma plataforma digital para facilitar a troca de livros usados entre pessoas, promovendo a leitura e a reutilização de livros.
+Desenvolver uma plataforma digital para facilitar a troca de livros usados entre pessoas, promovendo a leitura e a reutilização de livros e etc.
 
 Justificativa:
 O acesso a livros novos pode ser economicamente inviável para muitas pessoas. Além disso, muitos livros ficam esquecidos em prateleiras após serem lidos. Uma plataforma de troca de livros pode aumentar o acesso à leitura, promover a sustentabilidade e incentivar a comunidade a compartilhar recursos.
